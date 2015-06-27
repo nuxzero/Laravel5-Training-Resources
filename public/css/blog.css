@@ -149,6 +149,10 @@ h6, .h6 {
   color: #999;
 }
 
+.blog-image {
+    width: 100%;
+    display: inline-block;
+}
 
 /*
  * Footer
