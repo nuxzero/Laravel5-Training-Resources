@@ -34,6 +34,13 @@
             </div>
 
             <div class="form-group">
+                <label for="image" class="col-sm-2 control-label">Image</label>
+                <div class="col-sm-10">
+                    <input type="file" class="form-control" id="image" name="image">
+                </div>
+            </div>
+
+            <div class="form-group">
                 <label for="category_id" class="col-sm-2 control-label">Category</label>
                 <div class="col-sm-10">
                     <select class="form-control" name="category_id">
