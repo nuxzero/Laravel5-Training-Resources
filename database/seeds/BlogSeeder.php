@@ -24,6 +24,7 @@ class BlogSeeder extends Seeder
                 'public_date' => '2015-06-17',
                 'author' => 'Abdul Jaleel',
                 'category_id' => '2',
+                'views' => '122320',
             ],
             [
                 'id' => '2',
@@ -33,6 +34,7 @@ class BlogSeeder extends Seeder
                 'public_date' => '2015-06-13',
                 'author' => 'Wolox Engineering',
                 'category_id' => '2',
+                'views' => '24220',
             ],
             [
                 'id' => '3',
@@ -48,6 +50,7 @@ On the bottom of the article you will find a TL;DR version — a simple list
                 'public_date' => '2015-05-29',
                 'author' => 'Paweł Białecki',
                 'category_id' => '3',
+                'views' => '9000',
             ],
             [
                 'id' => '4',
@@ -56,6 +59,7 @@ On the bottom of the article you will find a TL;DR version — a simple list
                 'public_date' => '2015-04-14',
                 'author' => 'Twicer',
                 'category_id' => '3',
+                'views' => '63453',
             ],
             [
                 'id' => '5',
@@ -70,6 +74,7 @@ Within these constraints, both have progressed along remarkably similar paths, b
                 'public_date' => '2015-05-13',
                 'author' => 'Mike Sall',
                 'category_id' => '1',
+                'views' => '987876',
             ],
             [
                 'id' => '6',
@@ -82,6 +87,7 @@ His arguments mainly centre around how the rise of flat design or the ‘modern 
                 'public_date' => '2015-05-03',
                 'author' => 'Andrew Burton',
                 'category_id' => '1',
+                'views' => '6547',
             ],
 
         ]);

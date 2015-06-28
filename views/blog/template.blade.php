@@ -12,10 +12,10 @@
     <title>Blog - @yield('title')</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="{{ asset('packages/bootstrap-3/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="packages/bootstrap-3/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="{{ asset('css/blog.css') }}" rel="stylesheet">
+    <link href="css/blog.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
